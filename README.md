@@ -1,4 +1,4 @@
-# Sentiment-Analysis-
+# Sentiment-Analysis
 Sentiment Analysis for predicting movie ratings using Glove Word embeddings and LSTM network
 
 ## Dataset link
