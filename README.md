@@ -1,5 +1,5 @@
 # Sentiment-Analysis-
-Sentiment Analysis for predicting movie ratings using Glove and LSTM
+Sentiment Analysis for predicting movie ratings using Glove Word embeddings and LSTM network
 
 ## Dataset link
 data -> https://www.kaggle.com/yelp-dataset/yelp-dataset
